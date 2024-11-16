@@ -1,5 +1,5 @@
 import LoginForm from "./forms/LoginForm";
-
+import  "./App.css"
 
 
 const App = () => {
